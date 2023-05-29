@@ -24,4 +24,4 @@ Don't hesitate to engage in discussions, ask questions, or suggest improvements.
 Let's dive in and start coding together!
 
 Guilherme,
-Junior Full-Stack Developer
+Jr Full-Stack Developer
